@@ -6,7 +6,7 @@
     "city": "Kochi",
     "pricePerPerson": 10500,
     "durationDays": 4,
-    "image": "https://www.mysoretourism.org.in/images/places-to-visit/headers/mysoretourism-header-mysore-tourism.jpg.jpg",
+    "image": "https://wallpapercave.com/wp/wp2649841.jpg",
     "rating": 4.8,
     "description": "Backwaters and hill stations",
     "category": "Nature"
@@ -85,7 +85,7 @@
     "city": "Gurgaon",
     "pricePerPerson": 7500,
     "durationDays": 2,
-    "image": "https://www.holidaylandmark.com/blog/wp-content/uploads/2022/05/top-tourist-destinations-haryana-gurgaon-tourism-06.jpg",
+    "image": "https://www.holidify.com/images/cmsuploads/compressed/44808772_20230208130724.jpg",
     "rating": 4.0,
     "description": "City and resorts",
     "category": "City"
@@ -96,7 +96,7 @@
     "city": "Manali",
     "pricePerPerson": 12000,
     "durationDays": 5,
-    "image": "https://www.tripsavvy.com/thmb/TyQUjZcrE5SGoC_bAUP3XUYfa-0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-559684705-56a3c3b85f9b58b7d0d39f97.jpg.jpg",
+    "image": "https://th.bing.com/th/id/R.346bcf48d8cb1b479f9eafae3e0e8bff?rik=vkG8Vr1Ba1GpgA&riu=http%3a%2f%2fimage3.mouthshut.com%2fimages%2fRestaurant%2fPhoto%2f-44272_8285.jpg&ehk=C9MwVEFhfnLmL45xB9qMmzv0S7w1ThM%2fhPXTPRJgK7Y%3d&risl=&pid=ImgRaw&r=0",
     "rating": 4.9,
     "description": "Snow and adventure",
     "category": "Hill"
@@ -313,4 +313,5 @@
 
 
     ]
+
 }
