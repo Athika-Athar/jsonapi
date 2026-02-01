@@ -1,0 +1,316 @@
+{
+    "data": [
+       {
+    "pin": "1",
+    "state": "Kerala",
+    "city": "Kochi",
+    "pricePerPerson": 10500,
+    "durationDays": 4,
+    "image": "https://www.mysoretourism.org.in/images/places-to-visit/headers/mysoretourism-header-mysore-tourism.jpg.jpg",
+    "rating": 4.8,
+    "description": "Backwaters and hill stations",
+    "category": "Nature"
+  },
+
+  {
+    "pin": "2",
+    "state": "Arunachal Pradesh",
+    "city": "Tawang",
+    "pricePerPerson": 12500,
+    "durationDays": 5,
+    "image": "https://easternroutes.com/wp-content/uploads/2017/12/Sela_Pass_Gate-Tawang-Arunachal_Pradesh.jpg",
+    "rating": 4.7,
+    "description": "Mountains and monasteries",
+    "category": "Hill"
+  },
+   {
+    "pin": "3",
+    "state": "Uttar Pradesh",
+    "city": "Agra",
+    "pricePerPerson": 8500,
+    "durationDays": 2,
+    "image": "https://wallpaperaccess.com/full/3125646.jpg",
+    "rating": 4.8,
+    "description": "Taj Mahal visit",
+    "category": "Heritage"
+  },
+    {
+    "pin": "4",
+    "state": "Telangana",
+    "city": "Hyderabad",
+    "pricePerPerson": 9000,
+    "durationDays": 3,
+    "image": "https://www.goindigo.in/content/dam/s6web/in/en/assets/Destinations/destinations/hyderabad/073616_T_Prince_charminar-1.jpg",
+    "rating": 4.4,
+    "description": "City and heritage",
+    "category": "City"
+  },
+
+  {
+    "pin": "5",
+    "state": "Chhattisgarh",
+    "city": "Raipur",
+    "pricePerPerson": 8000,
+    "durationDays": 3,
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/19/8f/a5/02/mayfair-lake-resort.jpg?w=900&h=-1&s=1",
+    "rating": 4.0,
+    "description": "Forests and waterfalls",
+    "category": "Nature"
+  },
+  {
+    "pin": "6",
+    "state": "Goa",
+    "city": "Panaji",
+    "pricePerPerson": 11000,
+    "durationDays": 3,
+    "image": "https://content.r9cdn.net/rimg/dimg/df/7c/e8139d0b-city-57920-166f4e65f99.jpg?crop=true&width=1366&height=768&xhint=1636&yhint=1250",
+    "rating": 4.8,
+    "description": "Beaches and nightlife",
+    "category": "Beach"
+  },
+   {
+    "pin": "7",
+    "state": "Andhra Pradesh",
+    "city": "Visakhapatnam",
+    "pricePerPerson": 9500,
+    "durationDays": 4,
+    "image": "https://i.pinimg.com/originals/51/99/8e/51998e3e0f76855c5926cb5bb08aa17f.jpg",
+    "rating": 4.4,
+    "description": "Beaches and temples",
+    "category": "Beach"
+  },
+  {
+    "pin": "8",
+    "state": "Haryana",
+    "city": "Gurgaon",
+    "pricePerPerson": 7500,
+    "durationDays": 2,
+    "image": "https://www.holidaylandmark.com/blog/wp-content/uploads/2022/05/top-tourist-destinations-haryana-gurgaon-tourism-06.jpg",
+    "rating": 4.0,
+    "description": "City and resorts",
+    "category": "City"
+  },
+  {
+    "pin": "9",
+    "state": "Himachal Pradesh",
+    "city": "Manali",
+    "pricePerPerson": 12000,
+    "durationDays": 5,
+    "image": "https://www.tripsavvy.com/thmb/TyQUjZcrE5SGoC_bAUP3XUYfa-0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-559684705-56a3c3b85f9b58b7d0d39f97.jpg.jpg",
+    "rating": 4.9,
+    "description": "Snow and adventure",
+    "category": "Hill"
+  },
+  {
+    "pin": "10",
+    "state": "Jharkhand",
+    "city": "Ranchi",
+    "pricePerPerson": 8200,
+    "durationDays": 3,
+    "image": "https://s3.india.com/wp-content/uploads/2024/04/Feature-image-_-Ranchi.jpg?impolicy=Medium_Widthonly&w=350&h=263",
+    "rating": 4.1,
+    "description": "Waterfalls and forests",
+    "category": "Nature"
+  },
+  {
+    "pin": "11",
+    "state": "Karnataka",
+    "city": "Mysuru",
+    "pricePerPerson": 9500,
+    "durationDays": 4,
+    "image": "https://www.mysoretourism.org.in/images/places-to-visit/headers/mysoretourism-header-mysore-tourism.jpg.jpg",
+    "rating": 4.5,
+    "description": "Palaces and hills",
+    "category": "Heritage"
+  },
+  {
+    "pin": "12",
+    "state": "Gujarat",
+    "city": "Ahmedabad",
+    "pricePerPerson": 8500,
+    "durationDays": 3,
+    "image": "https://www.justahotels.com/wp-content/uploads/2024/10/Places-To-Explore-In-Ahmedabad.png",
+    "rating": 4.2,
+    "description": "Culture and heritage",
+    "category": "Heritage"
+  },
+  {
+    "pin": "13",
+    "state": "Madhya Pradesh",
+    "city": "Bhopal",
+    "pricePerPerson": 8800,
+    "durationDays": 3,
+    "image": "https://s7ap1.scene7.com/is/image/incredibleindia/1-taj-ul-masjid-bhopal-madhya-pradesh-attr-hero?qlt=82&ts=1742155999915",
+    "rating": 4.2,
+    "description": "Lakes and monuments",
+    "category": "Heritage"
+  },
+  {
+    "pin": "14",
+    "state": "Maharashtra",
+    "city": "Mumbai",
+    "pricePerPerson": 10000,
+    "durationDays": 3,
+    "image": "https://images.contentstack.io/v3/assets/blt06f605a34f1194ff/blt4c2020bafec392e0/67c6079b21a60e0f5ba4672c/iStock-881838756-Header_Mobile.jpg?fit=crop&disable=upscale&auto=webp&quality=60&crop=smart",
+    "rating": 4.6,
+    "description": "City and beaches",
+    "category": "City"
+  },
+  {
+    "pin": "15",
+    "state": "Manipur",
+    "city": "Imphal",
+    "pricePerPerson": 11500,
+    "durationDays": 4,
+    "image": "https://www.kiomoi.com/_next/image?url=https%3A%2F%2Fres.cloudinary.com%2Fkmadmin%2Fimage%2Fupload%2Fc_scale%2Cw_1248%2Ff_auto%2Fv1628584770%2Fkiomoi%2FImphal_1628584769233.webp&w=3840&q=75",
+    "rating": 4.4,
+    "description": "Valleys and culture",
+    "category": "Nature"
+  },
+  {
+    "pin": "16",
+    "state": "Meghalaya",
+    "city": "Shillong",
+    "pricePerPerson": 11800,
+    "durationDays": 4,
+    "image": "https://www.oyorooms.com/travel-guide/wp-content/uploads/2019/04/Cherrapunjee.jpg",
+    "rating": 4.7,
+    "description": "Living root bridges",
+    "category": "Hill"
+  },
+  {
+    "pin": "17",
+    "state": "Mizoram",
+    "city": "Aizawl",
+    "pricePerPerson": 11000,
+    "durationDays": 4,
+    "image": "https://www.india.com/wp-content/uploads/2024/08/trip-1.jpg",
+    "rating": 4.3,
+    "description": "Hills and culture",
+    "category": "Hill"
+  },
+  {
+    "pin": "18",
+    "state": "Nagaland",
+    "city": "Kohima",
+    "pricePerPerson": 10800,
+    "durationDays": 4,
+    "image": "https://www.hlimg.com/images/things2do/738X538/hornbill_1511353900t.jpg",
+    "rating": 4.4,
+    "description": "Tribal culture",
+    "category": "Hill"
+  },
+  {
+    "pin": "19",
+    "state": "Odisha",
+    "city": "Puri",
+    "pricePerPerson": 9000,
+    "durationDays": 3,
+    "image": "https://www.odisha-tourism.org/wp-content/uploads/2017/12/11.jpg",
+    "rating": 4.5,
+    "description": "Temples and beaches",
+    "category": "Temple"
+  },
+  {
+    "pin": "20",
+    "state": "Punjab",
+    "city": "Amritsar",
+    "pricePerPerson": 8500,
+    "durationDays": 2,
+    "image": "https://static.toiimg.com/photo/61820954.cms",
+    "rating": 4.6,
+    "description": "Golden Temple visit",
+    "category": "Temple"
+  },
+  {
+    "pin": "21",
+    "state": "Rajasthan",
+    "city": "Jaipur",
+    "pricePerPerson": 9800,
+    "durationDays": 4,
+    "image": "https://rtdc.tourism.rajasthan.gov.in/img/PackageBanner/Exotic%20Rajasthan/img4.jpg",
+    "rating": 4.7,
+    "description": "Forts and deserts",
+    "category": "Heritage"
+  },
+  {
+    "pin": "22",
+    "state": "Sikkim",
+    "city": "Gangtok",
+    "pricePerPerson": 12000,
+    "durationDays": 5,
+    "image": "https://www.bontravelindia.com/wp-content/uploads/2023/01/Sikkim-Tourism-Best-Places-to-Visit-in-Sikkim.jpg",
+    "rating": 4.9,
+    "description": "Mountains and lakes",
+    "category": "Hill"
+  },
+  {
+    "pin": "23",
+    "state": "Tamil Nadu",
+    "city": "Ooty",
+    "pricePerPerson": 9500,
+    "durationDays": 4,
+    "image": "https://www.revv.co.in/blogs/wp-content/uploads/2020/04/beautiful-botanical-garden-ooty.jpg",
+    "rating": 4.5,
+    "description": "Hill station and temples",
+    "category": "Hill"
+  },
+  {
+    "pin": "24",
+    "state": "Bihar",
+    "city": "Gaya",
+    "pricePerPerson": 7000,
+    "durationDays": 2,
+    "image": "https://www.ghumindiaghum.com/blog/wp-content/uploads/2021/02/visit-in-Bodh-Gaya-and-Gaya.jpg",
+    "rating": 4.1,
+    "description": "Spiritual destinations",
+    "category": "Temple"
+  },
+  {
+    "pin": "25",
+    "state": "Tripura",
+    "city": "Agartala",
+    "pricePerPerson": 10200,
+    "durationDays": 4,
+    "image": "https://www.tripuratime24.com/wp-content/uploads/2025/11/Agartala-Tourism-1.jpg",
+    "rating": 4.2,
+    "description": "Palaces and nature",
+    "category": "Nature"
+  },
+ {
+    "pin": "26",
+    "state": "Assam",
+    "city": "Guwahati",
+    "pricePerPerson": 9000,
+    "durationDays": 3,
+    "image": "https://www.adotrip.com/public/images/city/master_images/5e4a2eda79c14-Guwahati_Travel_Plan.jpg",
+    "rating": 4.3,
+    "description": "River and wildlife",
+    "category": "Nature"
+  },
+  {
+    "pin": "27",
+    "state": "Uttarakhand",
+    "city": "Nainital",
+    "pricePerPerson": 11000,
+    "durationDays": 4,
+    "image": "https://www.naturetravelagency.com/uploads/1698920878places%20to%20view%20in%20nainital.jpg",
+    "rating": 4.7,
+    "description": "Lakes and hills",
+    "category": "Hill"
+  },
+  {
+    "pin": "28",
+    "state": "West Bengal",
+    "city": "Darjeeling",
+    "pricePerPerson": 11500,
+    "durationDays": 4,
+    "image": "https://hblimg.mmtcdn.com/content/hubble/img/new_dest_imagemar/mmt/activities/m_Darjeeling_2_l_658_1200.jpg",
+    "rating": 4.8,
+    "description": "Tea gardens and hills",
+    "category": "Hill"
+  }
+
+
+    ]
+}
